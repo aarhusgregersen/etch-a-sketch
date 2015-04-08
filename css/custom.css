@@ -1,0 +1,25 @@
+button {
+	margin: auto;
+	position: relative;
+	left: 630px;
+	top: 90px;
+}
+
+#gridsize {
+	margin: auto;
+	position: relative;
+	left: 520px;
+	top: 55px;
+}
+
+#wrapper {
+	background-color: #475f77;
+	margin: 100px auto;
+	height: 400px;
+	width: 400px;	
+}
+
+.active {
+	background-color: grey;
+	opacity: 0.8;
+}
